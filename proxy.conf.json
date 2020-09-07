@@ -1,0 +1,31 @@
+{
+  "/secure": {
+    "target": "http://localhost/wbuilder/website/",
+    "secure": false
+  },
+
+  "/storage": {
+    "target": "http://localhost/wbuilder/website/",
+    "secure": false
+  },
+  "/builder/fonts": {
+    "target": "http://localhost/wbuilder/website/",
+    "secure": false
+  },
+  "/builder/css": {
+    "target": "http://localhost/wbuilder/website/",
+    "secure": false
+  },
+  "/builder/images": {
+    "target": "http://localhost/wbuilder/website/",
+    "secure": false
+  },
+  "/client/assets/images": {
+    "target": "http://localhost/wbuilder/website/",
+    "secure": false
+  },
+  "/__clockwork": {
+    "target": "http://localhost/wbuilder/website/public",
+    "secure": false
+  }
+}
